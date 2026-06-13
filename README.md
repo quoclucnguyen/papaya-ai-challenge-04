@@ -2,6 +2,8 @@
 
 React + Vite implementation of a searchable insurance terminology glossary.
 
+**Live demo:** https://papaya-ai-challenge-04.vercel.app
+
 ## Run local
 
 ```bash
